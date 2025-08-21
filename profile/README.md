@@ -6,7 +6,7 @@ including foundation models, survival analysis, and out-of-distribution (OOD) de
 Our research extends into critical domains, such as healthcare and material science, where these models can have significant impact. 
 Through these efforts, we aim to push the boundaries of what machine intelligence can achieve in solving real-world problems.
 
-## 🧑‍🦱 Our members
+## 🧑‍🦱 Active members
 :zap: Prashnna Gyawali - Principal Investigator
 * Jacob Thrasher - Ph.D. Student (CS)
 * Chowdhury Mohammad **_Abid_** Rahman - Ph.D. Student (EE)
@@ -16,3 +16,4 @@ Through these efforts, we aim to push the boundaries of what machine intelligenc
 * Nima Najafzadeh - Ph.D. Student (CS)
 * Ahsan Habib Akash - M.S. Student (CS)
 * Rizwan Ahamed Robin - M.S. Student (CS)
+* Abhilash Reddy Somigari - M.S. Student (CS)
